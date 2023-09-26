@@ -1,10 +1,10 @@
-package com.sorucevap.sorucevap;
+package com.project.aou;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SorucevapApplicationTests {
+class AouApplicationTests {
 
 	@Test
 	void contextLoads() {

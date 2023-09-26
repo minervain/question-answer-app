@@ -1,6 +1,6 @@
-package com.sorucevap.sorucevap.Repository;
+package com.project.aou.Repository;
 
-import com.sorucevap.sorucevap.Entites.User;
+import com.project.aou.Entites.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User,Long> {

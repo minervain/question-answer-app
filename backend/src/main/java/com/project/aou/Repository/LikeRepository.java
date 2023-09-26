@@ -1,6 +1,6 @@
-package com.sorucevap.sorucevap.Repository;
+package com.project.aou.Repository;
 
-import com.sorucevap.sorucevap.Entites.Like;
+import com.project.aou.Entites.Like;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface LikeRepository extends JpaRepository <Like,Long> {

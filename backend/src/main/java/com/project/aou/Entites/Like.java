@@ -1,4 +1,4 @@
-package com.sorucevap.sorucevap.Entites;
+package com.project.aou.Entites;
 
 
 import jakarta.persistence.Entity;

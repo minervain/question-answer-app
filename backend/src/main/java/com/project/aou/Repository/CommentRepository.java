@@ -1,6 +1,6 @@
-package com.sorucevap.sorucevap.Repository;
+package com.project.aou.Repository;
 
-import com.sorucevap.sorucevap.Entites.Comment;
+import com.project.aou.Entites.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CommentRepository extends JpaRepository <Comment,Long> {

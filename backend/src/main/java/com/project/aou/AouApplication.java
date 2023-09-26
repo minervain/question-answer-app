@@ -1,13 +1,13 @@
-package com.sorucevap.sorucevap;
+package com.project.aou;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SorucevapApplication {
+public class AouApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SorucevapApplication.class, args);
+		SpringApplication.run(AouApplication.class, args);
 	}
 
 }
