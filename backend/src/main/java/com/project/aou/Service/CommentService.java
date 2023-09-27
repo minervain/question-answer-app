@@ -6,10 +6,13 @@ import com.project.aou.Entites.User;
 import com.project.aou.Repository.CommentRepository;
 import com.project.aou.dto.CommentRequest;
 import com.project.aou.dto.CommentUpdateRequest;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
 
+
+@Service
 public class CommentService {
     private CommentRepository commentRepository;
     private UserService userService;
